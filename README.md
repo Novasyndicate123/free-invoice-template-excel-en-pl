@@ -8,6 +8,12 @@ A free one-page invoice: line items, VAT by rate, due date and amount due. Type 
 - `invoice-en-blank.xlsx` (English)
 - `invoice-pl-blank.xlsx` (Polski)
 
+## Who it is for / Dla kogo
+
+A simple invoice in Excel on one page: fill in the yellow cells and print. Works as a Polish invoice template and as an English one, for Google Sheets too.
+
+Darmowy szablon faktury dla freelancera i małej firmy. Faktura Excel ze stawki VAT w zwykłych komórkach, które łatwo zmienisz; szablon faktury działa także w Arkuszach Google.
+
 ## Good to know
 
 - The VAT rates are plain cells you can edit, so it works with any country's tax rates.
